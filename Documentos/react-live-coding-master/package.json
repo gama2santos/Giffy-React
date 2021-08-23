@@ -1,7 +1,7 @@
 {
   "name": "giffy",
   "version": "0.1.0",
-  "homepage": "http://gama2santos.github.io/Giffy-React",
+  "homepage": "http://gama2santos.github.io/",
   "private": true,
   "dependencies": {
     "@emotion/core": "^10.0.28",
