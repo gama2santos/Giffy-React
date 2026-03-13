@@ -1,11 +1,9 @@
-/** @jsx jsx */
-/** @jsxFrag React.Fragment */
 
 import React from "react";
 import SearchForm from "components/SearchForm";
 import { Helmet } from "react-helmet";
 import Button from 'components/Button'
-import { css, jsx } from '@emotion/core'
+import { css } from '@emotion/core'
 
 const gifsErrors = ['d2jjuAZzDSVLZ5kI', 'Bp3dFfoqpCKFyXuSzP', 'hv5AEBpH3ZyNoRnABG', 'hLwSzlKN8Fi6I'];
 
